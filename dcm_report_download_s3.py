@@ -180,7 +180,7 @@ def s3_creation_upload(argv):
 
 	s3.Bucket(BUCKET_NAME).put_object(Key=key,Body=data)
 
-	print("Complete")
+	print("Upload To S3 - Complete")
 
 if __name__ == '__main__':
   main(sys.argv)
