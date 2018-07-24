@@ -19,3 +19,11 @@ This repository contains a Python script that extracts a performance report from
 "DCM_REPORT_ID" must be replaced with the DCM report ID for the report that you created in the reporting UI
 
 "FILE_PATH" must be replaced with the location you want the file to be downloaded on your machine.
+
+# Resources
+
+Google API Console -> https://console.cloud.google.com/apis/
+
+Google DCM API -> https://github.com/googleads/googleads-dfa-reporting-samples/tree/master/python
+
+AWS Python SDK (Boto3) -> https://boto3.readthedocs.io/en/latest/
