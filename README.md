@@ -7,10 +7,15 @@ This repository contains a Python script that extracts a performance report from
 3. Execute script in command line in this format: python "DCM_Report_Download_Upload_S3" [Date]
 
 "AWS_ACCESS_KEY_ID" must be replaced with the AWS access key for your account
+
 "AWS_SECRET_KEY" must be replaced with the AWS secret key for your account
+
 "BUCKET_NAME" must be replaced with the S3 bucket name you desire
+
 "AWS_KEY" must be replaced with the S3 key that you desire
 
 "DCM_PROFILE_ID" must be replaced with the DCM profile ID for your account
+
 "DCM_REPORT_ID" must be replaced with the DCM report ID for the report that you created in the reporting UI
+
 "FILE_PATH" must be replaced with the location you want the file to be downloaded on your machine.
